@@ -1,0 +1,10 @@
+.container{
+    display: grid;
+    
+}
+.card{
+    color: red;
+    border-radius: 5px;
+    background-color: yellowgreen;
+    text-align: center;
+}

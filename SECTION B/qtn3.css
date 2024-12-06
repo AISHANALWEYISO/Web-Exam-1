@@ -1,0 +1,10 @@
+h1{
+    color: black;
+}
+fieldset{
+    position: absolute;
+     margin-right: 70%;
+     margin-top: 10%;
+     margin-left: 40%;
+     margin-bottom: 20%;
+}

@@ -1,0 +1,22 @@
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    display: grid;
+}
+  
+.sidebar {
+    background-color: black; 
+    color: white; 
+    padding: 20px;
+    width: 25%;
+}
+  
+.main{
+    background-color: #0ca6cc;
+    color: #b43c86;
+    padding: 20px;
+    width: 75%;
+}
+
+  
